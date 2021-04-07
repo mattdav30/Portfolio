@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'chat.png',
     title: 'Chat Application',
     info:
       'This is a small chat application project I have worked on which used React JS to talk to other people in real time.',
@@ -42,8 +42,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Client Website Example',
+    img: 'code.png',
+    title: 'Website Example',
     info:
       'I have designed and redesigned a number of websites through the use of Squarespace and Wordpress. Another example of these websites can be seen here.',
     info2: '',
@@ -52,8 +52,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: 'Client Website Example',
+    img: 'code.png',
+    title: 'Website Example',
     info:
       'I have designed and redesigned a number of websites through the use of Squarespace and Wordpress. Another example of these websites can be seen here.',
     info2: '',
@@ -62,7 +62,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'design_Page_01.png',
     title: 'Graphic design portfolio',
     info:
       'Created during a graphic design course at university (DECO2200), I not only showcase the work I created throughout the semester, but also express my personal style of graphic design. (Artwork is done in Illustrator, portfolio made in InDesign)',
@@ -73,10 +73,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'food.png',
     title: 'Prototyping example',
-    info: '',
-    info2: '',
+    info:
+      'I have worked on a number of small prototyping projects. You can find an example to one of them below.',
+    info2:
+      'This shows my ability to create a functioning prototype, wireframes and conduct research for an applciation.',
     url: 'https://github.com/deco3500-2019/FoodForThought',
     repo: '', // if no repo, the button will not show up
   },
