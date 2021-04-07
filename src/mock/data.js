@@ -42,7 +42,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'code.png',
+    img: 'scarr.png',
     title: 'Website Example',
     info:
       'I have designed and redesigned a number of websites through the use of Squarespace and Wordpress. Another example of these websites can be seen here.',
@@ -52,7 +52,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'code.png',
+    img: 'lnp.png',
     title: 'Website Example',
     info:
       'I have designed and redesigned a number of websites through the use of Squarespace and Wordpress. Another example of these websites can be seen here.',
