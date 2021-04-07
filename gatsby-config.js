@@ -22,10 +22,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Simplefolio`,
-        short_name: `Simplefolio`,
+        name: `Matthew Davenport | Portfolio`,
+        short_name: `Portfolio`,
         start_url: `/`,
-        background_color: `#fff`,
+        background_color: `#434343`,
         theme_color: `#02aab0`,
         display: `standalone`,
         icon: 'src/images/favicon-96x96.png',
