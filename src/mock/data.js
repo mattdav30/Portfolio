@@ -67,8 +67,7 @@ export const projectsData = [
     info:
       'Created during a graphic design course at university (DECO2200), I not only showcase the work I created throughout the semester, but also express my personal style of graphic design. (Artwork is done in Illustrator, portfolio made in InDesign)',
     info2: '',
-    url:
-      'https://www.linkedin.com/in/matthew-davenport-b536a210b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABuwNe8Bio7ZSN68wYfiGnHQL2PWC-Fgso0,1593422055033)/',
+    url: 'https://drive.google.com/file/d/1UcnnrTkSJqgskVc2K_OTf5XRAsB8dDIO/view?usp=sharing',
     repo: '', // if no repo, the button will not show up
   },
   {
