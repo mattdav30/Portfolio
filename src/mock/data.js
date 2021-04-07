@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Hi, my name is Matthew Davenport. My expertise lies in User Experience Design, this includes prototyping, wireframes, front-end design, research and general design. Apart from technical digital work, I have a keen interest working with others. I have experience in customer service, administration and general office duties.',
   paragraphTwo:
-    'I have a general coding know which includes both programming and web developement in multiple languages. I am proficient in using standard CMS platforms such as Wordpress and Squarespace, the Adobe Suite, filming, video editing, designing and creating graphics, and creating digital content.',
+    'I have a general coding knowledge which includes both programming and web developement in multiple languages. I am proficient in using standard CMS platforms such as Wordpress and Squarespace, the Adobe Suite, filming, video editing, designing and creating graphics, and creating digital content.',
   paragraphThree:
     'I also have experience growing large social media audiences and executing digital campaign strategies. I have experience in creating and sending email campaigns to over 1 Million individuals, and serving digital ads and content to similar audiences.',
   resume: 'https://www.linkedin.com/in/matthew-davenport-b536a210b/', // if no resume, the button will not show up
@@ -32,35 +32,59 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: 'Chat Application',
+    info:
+      'This is a small chat application project I have worked on which used React JS to talk to other people in real time.',
+    info2:
+      'As I use this personally, please contact me to learn more. Otherwise head to my Github to check out the code for it.',
+    url: 'https://chattingapplication.netlify.app/',
+    repo: 'https://github.com/mattdav30/chat_application', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'Client Website Example',
+    info:
+      'I have designed and redesigned a number of websites through the use of Squarespace and Wordpress. Another example of these websites can be seen here.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://paulscarr.com.au',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
+    title: 'Client Website Example',
+    info:
+      'I have designed and redesigned a number of websites through the use of Squarespace and Wordpress. Another example of these websites can be seen here.',
+    info2: '',
+    url: 'https://lnp.org.au',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'Graphic design portfolio',
+    info:
+      'Created during a graphic design course at university (DECO2200), I not only showcase the work I created throughout the semester, but also express my personal style of graphic design. (Artwork is done in Illustrator, portfolio made in InDesign)',
+    info2: '',
+    url:
+      'https://www.linkedin.com/in/matthew-davenport-b536a210b/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABuwNe8Bio7ZSN68wYfiGnHQL2PWC-Fgso0,1593422055033)/',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'Prototyping example',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://github.com/deco3500-2019/FoodForThought',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Get in touch',
+  cta: 'Want to work together or know more?',
   btn: 'Contact me',
   email: 'matt@matthewdavenport.com.au',
 };
