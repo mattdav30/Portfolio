@@ -19,11 +19,13 @@ export const heroData = {
 export const aboutData = {
   img: 'headshot.jpeg',
   paragraphOne:
-    'Hi, my name is Matthew Davenport. My expertise lies in User Experience Design, this includes prototyping, wireframes, front-end design, research and general design. Apart from technical digital work, I have a keen interest working with others. I have experience in customer service, administration and general office duties.',
+    'My expertise is in User Experience Design, including prototyping, wireframes, front-end design, research and general design.',
   paragraphTwo:
-    'I have a general coding knowledge which includes both programming and web developement in multiple languages. I am proficient in using standard CMS platforms such as Wordpress and Squarespace, the Adobe Suite, filming, video editing, designing and creating graphics, and creating digital content.',
+    'I am proficient in standard CMS platforms such as WordPress, Squarespace and the Adobe Suite.',
   paragraphThree:
-    'I also have experience growing large social media audiences and executing digital campaign strategies. I have experience in creating and sending email campaigns to over 1 Million individuals, and serving digital ads and content to similar audiences.',
+    'I have broad experience in filming, video editing, designing, creating digital content and executing campaigns.',
+  paragraphFour:
+    'In current and previous roles, I have executed multi-platform digital campaigns across social media, email and SMS. I have personally managed the distribution of over one-million emails, under tight deadlines and with multiple senders and variable data points.',
   resume: 'https://www.linkedin.com/in/matthew-davenport-b536a210b/', // if no resume, the button will not show up
 };
 
