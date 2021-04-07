@@ -23,9 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I am proficient in standard CMS platforms such as WordPress, Squarespace and the Adobe Suite.',
   paragraphThree:
-    'I have broad experience in filming, video editing, designing, creating digital content and executing campaigns.',
-  paragraphFour:
-    'In current and previous roles, I have executed multi-platform digital campaigns across social media, email and SMS. I have personally managed the distribution of over one-million emails, under tight deadlines and with multiple senders and variable data points.',
+    'I have broad experience in filming, video editing, designing, creating digital content and executing campaigns. In current and previous roles, I have executed multi-platform digital campaigns across social media, email and SMS. I have personally managed the distribution of over one-million emails, under tight deadlines and with multiple senders and variable data points.',
   resume: 'https://www.linkedin.com/in/matthew-davenport-b536a210b/', // if no resume, the button will not show up
 };
 
