@@ -9,10 +9,10 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: 'Hi, my name is ',
   name: 'Matthew Davenport',
-  subtitle: '',
-  cta: '',
+  subtitle: 'Developer and Designer',
+  cta: 'Know more',
 };
 
 // ABOUT DATA
@@ -60,9 +60,9 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: 'Get in touch',
+  btn: 'Contact me',
+  email: 'matt@matthewdavenport.com.au',
 };
 
 // FOOTER DATA
