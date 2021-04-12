@@ -5,6 +5,7 @@ export const headData = {
   title: 'Matthew Davenport | Portfolio', // e.g: 'Name | Developer'
   lang: 'en', // e.g: en, es, fr, jp
   description: 'Portfolio showcasing my current and past work.', // e.g: Welcome to my website
+  image: 'headshot.jpeg',
 };
 
 // HERO DATA
@@ -39,6 +40,15 @@ export const projectsData = [
       'As I use this personally, please contact me to learn more. Otherwise head to my Github to check out the code for it.',
     url: 'https://chattingapplication.netlify.app/',
     repo: 'https://github.com/mattdav30/chat_application', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'toomuchpower.png',
+    title: 'Website Example',
+    info: 'Campaign website created during an election.',
+    info2: '',
+    url: 'https://www.toomuchpower.com.au/',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
