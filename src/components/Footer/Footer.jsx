@@ -26,7 +26,7 @@ const Footer = () => {
               return (
                 <a
                   key={id}
-                  href={url || 'https://github.com/mattydav30'}
+                  href={url || 'https://github.com/mattdav30'}
                   rel="noopener noreferrer"
                   target="_blank"
                   aria-label={name}
